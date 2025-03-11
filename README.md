@@ -10,7 +10,7 @@ Este repositório tem como objetivo mostrar, na prática, como conquistar essa i
 
 2. **Realize uma modificação simples:**
    - Edite um arquivo (por exemplo, o `README.md`).
-   - Escreva algo novo ou modifique uma linha.
+   - Escreva algo novo ou modifique uma linha existente.
    - Faça o **commit** dessa alteração.
 
 3. **Crie uma nova branch:**
@@ -20,8 +20,8 @@ Este repositório tem como objetivo mostrar, na prática, como conquistar essa i
      ```
 
 4. **Faça outra modificação na nova branch:**
-   - Edite novamente o arquivo ou outro qualquer.
-   - Faça o commit da nova alteração.
+   - Edite novamente o arquivo ou outro arquivo do projeto.
+   - Faça o commit dessa nova alteração.
 
 5. **Abra um Pull Request (PR):**
    - No GitHub, vá na aba **Pull requests**.
